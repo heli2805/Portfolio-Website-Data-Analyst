@@ -29,11 +29,7 @@ Ce site présente mon parcours académique, mes compétences en analyse de donn�
 
 Vous trouverez ci-dessous quelques exemples de projets mettant en œuvre mes compétences en développement et en analyse de données.
 
-- [Analyse de données d'un magasin de musique avec SQL](https://github.com/rishabhnmishra/SQL_Music_Store_Analysis/blob/main/Music_Store_Query.sql)
-- [Analyse des ventes de Diwali avec Python](https://github.com/rishabhnmishra/Python_Diwali_Sales_Analysis/blob/main/Diwali_Sales_Analysis.ipynb)
 - [ Tableau de bord météorologique interactif développé en HTML, CSS et JavaScript](https://github.com/heli2805/applicationmeteo.github.io)
-- [Prévision des ventes avec analyse de séries temporelles](https://github.com/rishabhnmishra/sales_forecasting/tree/main)
-- [Segmentation des clients à l'aide de modèles de clustering](https://github.com/rishabhnmishra/customer_segmentation/blob/main/Customer_Segmentation-final.ipynb)
 
 ## Parcours Académique et Professionnel
 
