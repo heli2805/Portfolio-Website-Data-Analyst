@@ -4,7 +4,7 @@ Portfolio personnel d'Helicia TSIKA, étudiante passionnée par le Big Data et l
 
 ## À propos
 
-Ce site présente mon parcours académique, mes compétences en analyse de données, et mes projets professionnels. Je suis étudiante en Master 1 de Big Data et Data Stratégie à la Sonatel Academy à Dakar. Mon objectif est d'appliquer mes connaissances pour résoudre des problèmes complexes et contribuer au succès des projets.
+Ce site présente mon parcours académique, mes compétences en analyse de données, et mes projets professionnels. Je suis titulaire d'un Master 1 de Big Data et Data Stratégie et en ce moment je suis une formation de Dev Data à la Sonatel Academy à Dakar. Mon objectif est d'appliquer mes connaissances pour résoudre des problèmes complexes et contribuer au succès des projets.
 
 ## Technologies Utilisées
 
